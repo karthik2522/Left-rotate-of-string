@@ -1,4 +1,6 @@
-                      Team 37:
+#Left-rotate-of-string       
+             
+             Team 37:
 NAME:                                   USN:
 1.Akshay B.R                         1KS19CS400
 2.Karthik Prakash Hudedamani         1KS19CS409 
