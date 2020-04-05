@@ -19,7 +19,7 @@ We cleared our errors one by one and got the output and we struggled for lot of 
 
 INSTRUCTION TO RUN PROGRAM :
 1> Use the Java IDE like eclipse,netbeans 
-2> create class Left
+2> create class Asn02P09
 3> Run the code
 
 CHALLENGES FACED :
