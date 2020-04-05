@@ -1,6 +1,6 @@
 import java.util.*; 
  
-class Asn02P12 
+class Asn02P09
 { 
            
     static String leftrotate(String str, int a) 
