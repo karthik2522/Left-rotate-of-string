@@ -8,12 +8,14 @@
 
 
  ## CONTRIBUTION:
-          My team members including me seperately have wrritten our own codes on our own logic. After 
-          writing the codes we discussed among our selves and analysed the codes made corrections in the code 
-          and we executed all the three codes we find some logical error in the codes by comparing all three codes 
-          we corrected and make a single code and executed the code at last we got the out put.
-          The code was written in c language so we can execute the code normally
-          Challenges faced and addressing problems:-
+          My team members including me seperately have wrritten our own codes on our own logic.
+          After writing the codes we discussed among our selves and analysed the codes made 
+          corrections in the code and we executed all the three codes we find some logical 
+          error in the codes by comparing all three codes we corrected and make a single code 
+          and executed the code at last we got the out put. The code was written in c language
+          so we can execute the code normally
+
+## Challenges faced and addressing problems:-
           Many errors occurred because of missing  logics
           We cleared our errors one by one and got the output and we struggled for lot of time
 
