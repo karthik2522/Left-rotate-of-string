@@ -1,4 +1,4 @@
-#Left-rotate-of-string       
+# Left-rotate-of-string       
              
                             Team 37:
       NAME:                                USN:
@@ -7,7 +7,7 @@
       3.Rushi C.S                          1KS19CS412
 
 
- # CONTRIBUTION:
+ ## CONTRIBUTION:
           My team members including me seperately have wrritten our own codes on our own logic. After 
           writing the codes we discussed among our selves and analysed the codes made corrections in the code 
           and we executed all the three codes we find some logical error in the codes by comparing all three codes 
@@ -17,12 +17,12 @@
           Many errors occurred because of missing  logics
           We cleared our errors one by one and got the output and we struggled for lot of time
 
-# INSTRUCTION TO RUN PROGRAM :
+## INSTRUCTION TO RUN PROGRAM :
           1> Use the Java IDE like eclipse,netbeans 
           2> create class Asn02P09
           3> Run the code
 
-# CHALLENGES FACED :
+## CHALLENGES FACED :
           1>We didnt used the google logics
           2>We tried lot 
           3>Each in a team have given good ideas to implement this program
